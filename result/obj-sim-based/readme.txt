@@ -1,0 +1,1 @@
+rand_s = 3; rand_t=8; edge_num=3
